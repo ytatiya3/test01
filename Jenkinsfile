@@ -21,6 +21,10 @@ pipeline {
                 echo 'Venom gonna come for you'
             }
         }
+         stage('Deploy3') {
+            steps {
+                echo 'Venom gonna come for you'
+            }
     }
 }
 
